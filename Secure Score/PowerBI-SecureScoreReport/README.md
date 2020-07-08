@@ -61,7 +61,8 @@ Using this option you will create a Power BI application based on our template a
     ***Note:**  
     You can connect your data only if the data already available at the Log Analytics workspace. You can check it by running “SecureScore_CL” in the Log Analytics. Only after you get results to this query you can connect your data.*
 2. Perform authentication using **OAuth2** as the authentication method and **Organizational** as the privacy level, then click **Sign in** button to continue. 
-![Authentication to service](https://github.com/amitmag-ms/Public/blob/master/Azure%20Security%20Center/Secure%20Score/Imgs/AuthenticationService.png?raw=true)
+
+    ![Authentication to service](https://github.com/amitmag-ms/Public/blob/master/Azure%20Security%20Center/Secure%20Score/Imgs/AuthenticationService.png?raw=true)
 3.	It may take few minutes for the data to refresh. If the data hasn’t refreshed after 10 minutes, try manually refreshing the page.
 
 You are now ready to analyze your secure score data over time.
